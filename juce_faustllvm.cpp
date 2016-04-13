@@ -16,4 +16,5 @@
 #include "source/FaustAudioProcessorParameter.cpp"
 #include "source/FaustCodeTokenizer.cpp"
 #include "source/FaustGenFactory.cpp"
+#include "source/FaustUIComponent.cpp"
 

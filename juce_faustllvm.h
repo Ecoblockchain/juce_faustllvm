@@ -71,6 +71,7 @@
 #include "source/FaustAudioProcessorParameter.h"
 #include "source/FaustCodeTokenizer.h"
 #include "source/FaustPluginFormat.h"
+#include "source/FaustUIComponent.h"
 // #include "source/FaustDSPWatcher.h"
 // #include "source/FaustFileFilter.h"
-// #include "source/FaustGenFactory.h"
+//#include "source/FaustGenFactory.h"

@@ -149,8 +149,7 @@ bool FaustAudioPluginInstance::hasEditor() const
 AudioProcessorEditor* FaustAudioPluginInstance::createEditor()
 {
   FaustAudioProcessorEditor* editor = new FaustAudioProcessorEditor(*this);
-  fDSP->buildUserInterface(editor);
-  fDSP->metadata(editor);
+//  fDSP->metadata(editor);
   
   return editor;
 }
