@@ -50,6 +50,8 @@
 #include "faust/gui/JSONUI.h"
 #include "faust/dsp/llvm-dsp.h"
 
+#include <juce_core/juce_core.h>
+
 using namespace juce;
 
 class FaustAudioPluginInstance;

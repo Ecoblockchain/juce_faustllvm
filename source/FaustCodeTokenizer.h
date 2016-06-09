@@ -12,8 +12,6 @@
 
 #include <juce_gui_extra/juce_gui_extra.h>
 
-using namespace juce;
-
 class FaustTokeniser   : public CodeTokeniser
 {
 public:

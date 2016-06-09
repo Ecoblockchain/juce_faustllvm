@@ -13,8 +13,6 @@
 #include "FaustAudioPluginInstance.h"
 #include <juce_audio_processors/juce_audio_processors.h>
 
-using namespace juce;
-
 class FaustAudioProcessorParameter : public AudioProcessorParameter
 {
 public:
