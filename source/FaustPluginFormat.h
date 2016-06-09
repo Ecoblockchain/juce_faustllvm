@@ -53,7 +53,7 @@ public:
   
   FileSearchPath getDefaultLocationsToSearch() override
   {
-    return FileSearchPath(DEFAULT_FAUST_DSP_SEARCHPATH);
+    return FileSearchPath("");
   }
   
   bool canScanForPlugins() const override

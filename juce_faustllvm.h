@@ -37,8 +37,6 @@
 #define FAUSTFLOAT float
 #endif
 
-#define DEFAULT_FAUST_DSP_SEARCHPATH "~/Library/Application Support/pMix2/FaustNodes"
-
 #define FAUSTGEN_VERSION "0.99b"
 
 #if JUCE_MAC || JUCE_LINUX
